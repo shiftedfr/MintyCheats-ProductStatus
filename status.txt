@@ -1,3 +1,4 @@
-Product: Online
-Last Scan: 07.2025
-Detection: Undetected
+TriggerBot: green
+Glow ESP: yellow
+Premium ESP: blue
+Aimbot V2: red
