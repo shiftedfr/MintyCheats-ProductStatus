@@ -1,4 +1,0 @@
-TriggerBot: green
-Glow ESP: yellow
-Premium ESP: blue
-Aimbot V2: red
