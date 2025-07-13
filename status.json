@@ -3,9 +3,9 @@
   "Paid Temporary Spoofer": "indevmode",
   "Paid Permanent Spoofer": "indevmode",
 
-  "Free Fortnite External": "indevmode",
+  "Free Fortnite External": "semi_undetected",
   "Free Temp Spoofer": "indevmode",
   "Free EAC Cleaner": "operational",
-  "Free Windows Activator": "operational",
-  "Free Spotify Activator": "operational"
+  "Free Windows Activator": "indevmode",
+  "Free Spotify Activator": "indevmode"
 }
